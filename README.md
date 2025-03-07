@@ -1,2 +1,2 @@
 # Machine-Learning
-Classificação com SKlearn
+Anotações do curso de Machine Learning - Classificação com SKlearn
